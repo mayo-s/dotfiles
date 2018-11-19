@@ -7,3 +7,6 @@ syntax on
 " turn ON line numbers
 set number
 highlight LineNr ctermfg=gray
+
+" setup backspace usage to eol
+set backspace=indent,eol,start
